@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "email": "23f3000340@ds.study.iitm.ac.in",
+    "version": "0042eae5"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "4K Smart TV",
+      "category": "electronics",
+      "price": 799.99,
+      "stock": 44,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Wireless Headphones",
+      "category": "electronics",
+      "price": 89.99,
+      "stock": 150,
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "name": "Coffee Maker",
+      "category": "home",
+      "price": 49.99,
+      "stock": 80,
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "category": "sports",
+      "price": 79.99,
+      "stock": 120,
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "name": "Desk Lamp",
+      "category": "home",
+      "price": 29.99,
+      "stock": 200,
+      "rating": 4.1
+    },
+    {
+      "id": 6,
+      "name": "Yoga Mat",
+      "category": "sports",
+      "price": 24.99,
+      "stock": 300,
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "name": "Bluetooth Speaker",
+      "category": "electronics",
+      "price": 59.99,
+      "stock": 175,
+      "rating": 4.5
+    },
+    {
+      "id": 8,
+      "name": "Backpack",
+      "category": "sports",
+      "price": 44.99,
+      "stock": 90,
+      "rating": 4.3
+    },
+    {
+      "id": 9,
+      "name": "Blender",
+      "category": "home",
+      "price": 69.99,
+      "stock": 65,
+      "rating": 4.4
+    },
+    {
+      "id": 10,
+      "name": "Gaming Mouse",
+      "category": "electronics",
+      "price": 39.99,
+      "stock": 220,
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "name": "Bed Sheets Set",
+      "category": "home",
+      "price": 34.99,
+      "stock": 140,
+      "rating": 4.2
+    },
+    {
+      "id": 12,
+      "name": "Tennis Racket",
+      "category": "sports",
+      "price": 89.99,
+      "stock": 55,
+      "rating": 4.5
+    },
+    {
+      "id": 13,
+      "name": "Laptop Stand",
+      "category": "electronics",
+      "price": 45.99,
+      "stock": 110,
+      "rating": 4.3
+    },
+    {
+      "id": 14,
+      "name": "Cutting Board",
+      "category": "home",
+      "price": 19.99,
+      "stock": 250,
+      "rating": 4.6
+    },
+    {
+      "id": 15,
+      "name": "Dumbbell Set",
+      "category": "sports",
+      "price": 99.99,
+      "stock": 75,
+      "rating": 4.7
+    },
+    {
+      "id": 16,
+      "name": "USB-C Cable",
+      "category": "electronics",
+      "price": 12.99,
+      "stock": 500,
+      "rating": 4.4
+    },
+    {
+      "id": 17,
+      "name": "Throw Pillows",
+      "category": "home",
+      "price": 24.99,
+      "stock": 180,
+      "rating": 4.3
+    },
+    {
+      "id": 18,
+      "name": "Water Bottle",
+      "category": "sports",
+      "price": 14.99,
+      "stock": 400,
+      "rating": 4.5
+    },
+    {
+      "id": 19,
+      "name": "Webcam",
+      "category": "electronics",
+      "price": 79.99,
+      "stock": 95,
+      "rating": 4.2
+    },
+    {
+      "id": 20,
+      "name": "Vacuum Cleaner",
+      "category": "home",
+      "price": 149.99,
+      "stock": 45,
+      "rating": 4.5
+    },
+    {
+      "id": 21,
+      "name": "Fitness Tracker",
+      "category": "sports",
+      "price": 59.99,
+      "stock": 160,
+      "rating": 4.4
+    }
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 7,
+      "inventoryValue": 89189.38
+    },
+    "home": {
+      "count": 7,
+      "inventoryValue": 17547.13
+    },
+    "sports": {
+      "count": 7,
+      "inventoryValue": 28497.15
+    }
+  }
+}
